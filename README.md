@@ -20,5 +20,5 @@
 
 ![snake gif](https://github.com/DeiltonRodrigues1/DeiltonRodrigues1/blob/output/github-contribution-grid-snake.svg)
 
-<div align="center"> Deilton
+<div align="center"> Deilton Rodrigues 
 
