@@ -1,19 +1,5 @@
 <div align="center">
 <h2> Seja, bem vindo!</h2>
-</div>
-</br>
-<div align="center">
-  <div align="center">
-  <a href="https://github.com/DeiltonRodrigues1">
-    <img height="180em" src="https://https://github.com/DeiltonRodrigues1"/>
-    </div>
-</br>
-  <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuandersonSouza&layout=compact&langs_count=7&theme=dark"/>
-</div>
-</div>
-</br>
- <div align="center">
 <div style="display: inline_block"><br>
   <img align="center" alt="RuandersonSouza-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="RuandersonSouza-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
