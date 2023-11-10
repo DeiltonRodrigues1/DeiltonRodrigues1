@@ -21,7 +21,7 @@
 
 <h3 align="left">Now Playing:</h3>
 
-[![Spotify](https://open.spotify.com/intl-pt/track/0ocRRu76CW1dUTMGiLau5q?si=96656b58c7a24470)](https://open.spotify.com/intl-pt/track/0ocRRu76CW1dUTMGiLau5q?si=96656b58c7a24470)
+[![Spotify](https://open.spotify.com/intl-pt/track/0ocRRu76CW1dUTMGiLau5q?si=96656b58c7a24470)](https://open.spotify.com/user/ibxvywnw08iinjj31twxxx1aq)
 
 
 
