@@ -23,7 +23,7 @@
 
 [![Spotify](https://now-playing-technically-tony.vercel.app/api/spotify)](https://open.spotify.com/user/316ynimwepp7athpqi6d3l3a54ey)
 
-![Profile views](https://gpvc.arturio.dev/Technically-Tony)  
+
 
 
 
