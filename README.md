@@ -18,7 +18,7 @@
 </br>
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/github-user-contribution.svg" /></p>
 
-![snake gif](https://github.com/DeiltonRodrigues1/DeiltonRodrigues1/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/DeiltonRodrigues1/DeiltonRodrigues1/blob/output/github-contribution-grid-snake.gif)
 
 <div align="center"> Deilton Rodrigues 
 
