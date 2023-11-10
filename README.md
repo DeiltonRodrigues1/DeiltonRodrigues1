@@ -1,10 +1,10 @@
 <div align="center">
 <h2> Seja bem vindo(a)!</h2> <img height="50" width="60" src="https://camo.githubusercontent.com/ff34dc3095186fe3529d7766637a9bb7dfb634fb5ed33fdc34e98de1c381db06/68747470733a2f2f7777772e6d75636b6962752e64652f77702d636f6e74656e742f75706c6f6164732f323031382f31302f4f63746f6361742e706e67"  >
 <div style="display: inline_block"><br>
-  <img align="center" alt="DeiltonRodrigues-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="DeiltonRodrigues-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="DeiltonRodrigues-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="DeiltonRodrigues-APEX" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFeSrulYoNAePi9YSCIrCEIibJqgF0_QCP1w&usqp=CAU">
+  <img align="center" alt="DeiltonRodrigues-Js" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="DeiltonRodrigues-HTML" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="DeiltonRodrigues-CSS" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="DeiltonRodrigues-APEX" height="20" width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFeSrulYoNAePi9YSCIrCEIibJqgF0_QCP1w&usqp=CAU">
   
 </div>
  </div>
