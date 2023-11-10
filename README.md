@@ -21,7 +21,7 @@
 
 <h3 align="left">Now Playing:</h3>
 
-[![Spotify](https://now-playing-technically-tony.vercel.app/api/spotify)](https://open.spotify.com/user/316ynimwepp7athpqi6d3l3a54ey)
+[![Spotify](https://now-playing-technically-tony.vercel.app/api/spotify)](https://open.spotify.com/intl-pt/track/0ocRRu76CW1dUTMGiLau5q?si=96656b58c7a24470)
 
 
 
