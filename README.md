@@ -21,5 +21,5 @@
 **Now Playing** on Spotify
 
 <a href="https://open.spotify.com/intl-pt/track/0ocRRu76CW1dUTMGiLau5q">
-    <img src="https://www.musicjournal.com.br/wp-content/uploads/2019/12/enya-1.jpg" width="250" height="84" alt="Now Playing">
+    <img src="[https://www.musicjournal.com.br/wp-content/uploads/2019/12/enya-1.jpg](https://open.spotify.com/intl-pt/track/0ocRRu76CW1dUTMGiLau5q?si=d435bf2fa6404aad)https://open.spotify.com/intl-pt/track/0ocRRu76CW1dUTMGiLau5q?si=d435bf2fa6404aad" width="250" height="84" alt="Now Playing">
 </a>
