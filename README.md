@@ -18,7 +18,7 @@
 </br>
 <p align="center">   <img alingn="center" src="(https://raw.githubusercontent.com/DeiltonRodrigues1/snk/output/github-contribution-grid-snake.s)" /></p>
 
-![snake gif](https://raw.githubusercontent.com/DeiltonRodrigues1/snk/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 <div align="center"> Deilton Rodrigues 
 
