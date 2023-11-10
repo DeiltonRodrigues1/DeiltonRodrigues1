@@ -11,7 +11,7 @@
  <div align="center">
   <a href="https://www.youtube.com/channel/UC7zg2jrvZoZBMApxnGz7fHQ" target="_blank"><img src="https://static.vecteezy.com/system/resources/previews/018/930/575/non_2x/youtube-logo-youtube-icon-transparent-free-png.png" target="_blank" width="60" height="60"></a>
   <a href="https://www.instagram.com/deiltonrodriguesdrawings/" target="_blank"><img src="https://cdn.pixabay.com/photo/2022/01/26/23/18/instagram-6970242_960_720.jpg" target="_blank" width="60" height="60"></a> 
-  <a href = "mailto:deiltonrodrigues@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" width="60" height="60"></a>
+  <a href = "mailto:deiltonrodrigues@gmail.com"><img src="[https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white](https://i.pinimg.com/1200x/bd/4f/e2/bd4fe2b3f6f3c9c20eb371b53d6d02c9.jpg)" target="_blank" width="60" height="60"></a>
   <a href="https://www.linkedin.com/in/deilton-rodrigues-b8a433140/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" width="60" height="60"></a> 
 </div>
 </br>
