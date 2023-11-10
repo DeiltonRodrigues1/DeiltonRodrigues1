@@ -10,7 +10,7 @@
 
  <div align="center">
   <a href="https://www.youtube.com/channel/UC7zg2jrvZoZBMApxnGz7fHQ" target="_blank"><img src="https://static.vecteezy.com/system/resources/previews/018/930/575/non_2x/youtube-logo-youtube-icon-transparent-free-png.png" target="_blank" width="80" height="80"></a>
-  <a href="https://www.instagram.com/deiltonrodriguesdrawings/" target="_blank"><img src="https://w7.pngwing.com/pngs/516/314/png-transparent-instagram-icon-computer-icons-logo-instagram-logo-miscellaneous-purple-text-thumbnail.png" target="_blank" width="80" height="80"></a> 
+  <a href="https://www.instagram.com/deiltonrodriguesdrawings/" target="_blank"><img src="https://i.pinimg.com/564x/5d/36/d5/5d36d57c4bfb5da2300ec333595166af.jpg" target="_blank" width="80" height="80"></a> 
   <a href = "mailto:deiltonrodrigues@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/deilton-rodrigues-b8a433140/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
