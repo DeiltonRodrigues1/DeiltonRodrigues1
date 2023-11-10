@@ -18,4 +18,8 @@
 
 
 
+**Now Playing** on Spotify
 
+<a href="https://open.spotify.com/intl-pt/track/0ocRRu76CW1dUTMGiLau5q">
+    <img src="https://www.musicjournal.com.br/wp-content/uploads/2019/12/enya-1.jpg" width="250" height="84" alt="Now Playing">
+</a>
