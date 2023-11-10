@@ -16,10 +16,11 @@
 </div>
 </br>
 
-
+<div align="center">
 
 **Now Playing** on Spotify
 
 <a href="https://open.spotify.com/intl-pt/track/0ocRRu76CW1dUTMGiLau5q">
     <img src="https://i.scdn.co/image/ab67616d0000b273b649be23c5d8ed012d723a13" width="200" height="150" alt="Now Playing">
 </a>
+</div>
