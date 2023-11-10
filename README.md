@@ -16,7 +16,7 @@
   <a href="https://www.linkedin.com/in/deilton-rodrigues-b8a433140/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 </br>
-<p align="center">   <img alingn="center" src="[https://profile-counter.glitch.me/github-user-contribution.svg](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.s)" /></p>
+<p align="center">   <img alingn="center" src="(https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.s)" /></p>
 
 ![snake gif](https://raw.githubusercontent.com/DeiltonRodrigues1/snk/output/github-contribution-grid-snake.svg)
 
