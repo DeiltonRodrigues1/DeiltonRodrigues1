@@ -1,7 +1,7 @@
 <div align="center">
 <h2> Seja bem vindo(a)!</h2> <img height="30" width="40" src="https://camo.githubusercontent.com/ff34dc3095186fe3529d7766637a9bb7dfb634fb5ed33fdc34e98de1c381db06/68747470733a2f2f7777772e6d75636b6962752e64652f77702d636f6e74656e742f75706c6f6164732f323031382f31302f4f63746f6361742e706e67">
 <div style="display: inline_block"><br>
-  <img align="center" alt="DeiltonRodrigues-Js" height="30" width="40" src="(https://banner2.cleanpng.com/20180920/kl/kisspng-javascript-html5-cascading-style-sheets-css3-5ba40e8038ab77.3391088215374782722321.jpg)">
+  <img align="center" alt="DeiltonRodrigues-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="DeiltonRodrigues-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="DeiltonRodrigues-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
