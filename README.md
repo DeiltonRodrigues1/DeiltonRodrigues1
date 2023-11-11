@@ -22,9 +22,5 @@
 <div align="center">
 
 **Now Playing** on Spotify
-
-<a href="https://open.spotify.com/user/ibxvywnw08iinjj31twxxx1aq?si=6a421aa730d8488a ">
-    <img src="https://i.scdn.co/image/ab67616d0000b273b649be23c5d8ed012d723a13" width="200" height="150" alt="Now Playing">
-</a>
-</div>
+[![Spotify](https://novatorem-esp75gar1-deiltonrodrigues1s-projects.vercel.app/api/spotify)](https://open.spotify.com/user/DeiltonRodrigues)
   
