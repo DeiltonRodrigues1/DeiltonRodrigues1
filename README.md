@@ -22,5 +22,6 @@
 <div align="center">
 
 **Now Playing** on Spotify
+
 [![Spotify](https://novatorem-esp75gar1-deiltonrodrigues1s-projects.vercel.app/api/spotify)](https://open.spotify.com/user/ibxvywnw08iinjj31twxxx1aq)
   
