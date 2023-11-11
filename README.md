@@ -23,5 +23,5 @@
 
 **Now Playing** on Spotify
 
-[![Spotify](https://novatorem-hazel-eight.vercel.app/api/spotify)](https://open.spotify.com/user/ibxvywnw08iinjj31twxxx1aq)
+[![Spotify](https://novatorem-hazel-eight.vercel.app/api/spotify)](https://open.spotify.com/user/DeiltonRodrigues)
   
