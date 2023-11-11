@@ -1,5 +1,13 @@
 <div align="center">
-<h2> Seja bem vindo(a)!</h2> <kbd border-radius="80%"><img height="70" width="80" src="https://camo.githubusercontent.com/ff34dc3095186fe3529d7766637a9bb7dfb634fb5ed33fdc34e98de1c381db06/68747470733a2f2f7777772e6d75636b6962752e64652f77702d636f6e74656e742f75706c6f6164732f323031382f31302f4f63746f6361742e706e67"  >
+<h2>Olá, seja bem vindo(a) à minha página do GitHub!</h2></br>
+
+<p align="center">
+ <img src="https://readme-typing-svg.demolab.com/?lines=Eu sou Deilton Rodrigues;Desenvolvedor Salesforce;Músico;Artista Plástico;Bora codar?&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
+
+
+
+  <kbd border-radius="80%"><img height="70" width="80" src="https://camo.githubusercontent.com/ff34dc3095186fe3529d7766637a9bb7dfb634fb5ed33fdc34e98de1c381db06/68747470733a2f2f7777772e6d75636b6962752e64652f77702d636f6e74656e742f75706c6f6164732f323031382f31302f4f63746f6361742e706e67"  >
 <div style="display: inline_block"><br></kbd>
   
  <kbd border-radius="80%">  <img align="center" alt="DeiltonRodrigues-Js" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></kbd>
