@@ -2,7 +2,7 @@
 <h2>Olá, seja bem vindo(a) à minha página do GitHub!</h2></br>
 
 <p align="center">
- <img src="https://readme-typing-svg.demolab.com/?lines=Eu sou Deilton Rodrigues;Desenvolvedor Salesforce;Músico;Artista Plástico;Bora codar?&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+ <img src="https://readme-typing-svg.demolab.com/?lines=Eu sou Deilton Rodrigues;Desenvolvedor Salesforce;Músico;Artista Plástico;Bora codar?🤓&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
 
