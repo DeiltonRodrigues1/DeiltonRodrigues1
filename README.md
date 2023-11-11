@@ -11,7 +11,7 @@
 </br>
 
  <div align="center">
-  <a href="https://www.youtube.com/channel/UC7zg2jrvZoZBMApxnGz7fHQ" target="_blank"><img src="https://i.redd.it/3d-youtube-logo-full-video-on-my-channel-v0-ituve6xk0apa1.png?width=1920&format=png&auto=webp&s=c4b090ae1e20b8d1877e4cdf6fb29fe216ed84ce" target="_blank" width="40" height="40"></a>
+  <a href="https://www.youtube.com/channel/UC7zg2jrvZoZBMApxnGz7fHQ" target="_blank"><img src="https://i.redd.it/3d-youtube-logo-full-video-on-my-channel-v0-ituve6xk0apa1.png?width=1920&format=png&auto=webp&s=c4b090ae1e20b8d1877e4cdf6fb29fe216ed84ce" target="_blank" width="40" height="40" border="8px"></a>
   <a href="https://www.instagram.com/deiltonrodriguesdrawings/" target="_blank"><img src="https://cdn.pixabay.com/photo/2022/01/26/23/18/instagram-6970242_960_720.jpg" target="_blank" width="40" height="40"></a> 
   <a href = "mailto:deiltonrodrigues@gmail.com"><img src="https://i.pinimg.com/1200x/bd/4f/e2/bd4fe2b3f6f3c9c20eb371b53d6d02c9.jpg" target="_blank" width="40" height="40"></a>
   <a href="https://www.linkedin.com/in/deilton-rodrigues-b8a433140/" target="_blank"><img src="https://wallpapers.com/images/hd/linkedin-background-ca8mfbsf2jxdlxjx.jpg" target="_blank" width="40" height="40"></a> 
