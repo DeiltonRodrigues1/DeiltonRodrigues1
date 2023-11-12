@@ -14,6 +14,11 @@
  <kbd border-radius="80%">  <img align="center" alt="DeiltonRodrigues-HTML" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></kbd>&nbsp;
  <kbd border-radius="80%"><img align="center" alt="DeiltonRodrigues-CSS" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></kbd>&nbsp;
  <kbd border-radius="80%"><img align="center" alt="DeiltonRodrigues-APEX" height="20" width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFeSrulYoNAePi9YSCIrCEIibJqgF0_QCP1w&usqp=CAU"></kbd>
+ <kbd border-radius="80%"><img align="center" alt="DeiltonRodrigues-APEX" height="20" width="30" src="https://developer.salesforce.com/resources2/quests/badge2.png"></kbd>
+  <kbd border-radius="80%"><img align="center" alt="DeiltonRodrigues-APEX" height="20" width="30" src="https://demandblue.com/wp-content/uploads/2018/04/lighting.jpg"></kbd>
+ <kbd border-radius="80%"><img align="center" alt="DeiltonRodrigues-APEX" height="20" width="30" src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/lex_dev_visualforce/7998e9bbdff36b923bb01ff7a5f918f5_badge.png"></kbd>
+  
+ 
 
 </div> 
  </div>
@@ -21,14 +26,16 @@
 <div align="center" border-radius="80%">
  
    
-   <kbd > <a href="https://www.youtube.com/channel/UC7zg2jrvZoZBMApxnGz7fHQ" target="_blank"><img src="https://i.redd.it/3d-youtube-logo-full-video-on-my-channel-v0-ituve6xk0apa1.png?width=1920&format=png&auto=webp&s=c4b090ae1e20b8d1877e4cdf6fb29fe216ed84ce" width="40" height="40" border-radius="50%"></a></kbd>&nbsp;
-    <kbd > <a href="https://www.instagram.com/deiltonrodriguesdrawings/" target="_blank"><img src="https://cdn.pixabay.com/photo/2022/01/26/23/18/instagram-6970242_960_720.jpg" width="40" height="40"></a></kbd>&nbsp;
-     <kbd > <a href="mailto:deiltonrodrigues@gmail.com"><img src="https://i.pinimg.com/1200x/bd/4f/e2/bd4fe2b3f6f3c9c20eb371b53d6d02c9.jpg" width="40" height="40"></a></kbd>&nbsp;
-    <kbd > <a href="https://www.linkedin.com/in/deilton-rodrigues-b8a433140/" target="_blank"><img src="https://wallpapers.com/images/hd/linkedin-background-ca8mfbsf2jxdlxjx.jpg" width="40" height="40"></a></kbd>&nbsp;
+   <kbd > <a href="https://www.youtube.com/channel/UC7zg2jrvZoZBMApxnGz7fHQ" target="_blank"><img src="https://i.redd.it/3d-youtube-logo-full-video-on-my-channel-v0-ituve6xk0apa1.png?width=1920&format=png&auto=webp&s=c4b090ae1e20b8d1877e4cdf6fb29fe216ed84ce" width="40" height="40" border-radius="50%"></a></kbd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <kbd > <a href="https://www.instagram.com/deiltonrodriguesdrawings/" target="_blank"><img src="https://cdn.pixabay.com/photo/2022/01/26/23/18/instagram-6970242_960_720.jpg" width="40" height="40"></a></kbd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     <kbd > <a href="mailto:deiltonrodrigues@gmail.com"><img src="https://i.pinimg.com/1200x/bd/4f/e2/bd4fe2b3f6f3c9c20eb371b53d6d02c9.jpg" width="40" height="40"></a></kbd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <kbd > <a href="https://www.linkedin.com/in/deilton-rodrigues-b8a433140/" target="_blank"><img src="https://wallpapers.com/images/hd/linkedin-background-ca8mfbsf2jxdlxjx.jpg" width="40" height="40"></a></kbd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
      <kbd > <a href="https://www.salesforce.com/trailblazer/deiltonrodrigues/" target="_blank"><img src="https://www.awsquality.com/wp-content/uploads/2017/07/Trailhead-e1577700066737.jpg" width="40" height="40"></a></kbd>
+    
+     
   
 
-</div>
+</div></kbd>
 </br>
 
 <div align="center">
@@ -37,4 +44,4 @@
 
 <kbd border-radius="80%"> [![Spotify](https://novatorem-hazel-eight.vercel.app/api/spotify)](https://open.spotify.com/user/DeiltonRodrigues)</kbd>
  
-</kbd>
+
