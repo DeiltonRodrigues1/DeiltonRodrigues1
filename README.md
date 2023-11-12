@@ -7,7 +7,8 @@
 
 
 
-<img height="90" width="100" src="https://camo.githubusercontent.com/ff34dc3095186fe3529d7766637a9bb7dfb634fb5ed33fdc34e98de1c381db06/68747470733a2f2f7777772e6d75636b6962752e64652f77702d636f6e74656e742f75706c6f6164732f323031382f31302f4f63746f6361742e706e67"  >
+<img height="300" width="400" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif"  >
+
 <div style="display: inline_block"><br>
 
  <kbd border-radius="80%"><img align="center" alt="DeiltonRodrigues-Js" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></kbd>&nbsp;
