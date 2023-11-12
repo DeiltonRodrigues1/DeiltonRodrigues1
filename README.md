@@ -30,7 +30,7 @@
     <kbd > <a href="https://www.instagram.com/deiltonrodriguesdrawings/" target="_blank"><img src="https://cdn.pixabay.com/photo/2022/01/26/23/18/instagram-6970242_960_720.jpg" width="40" height="40"></a></kbd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
      <kbd > <a href="mailto:deiltonrodrigues@gmail.com"><img src="https://i.pinimg.com/1200x/bd/4f/e2/bd4fe2b3f6f3c9c20eb371b53d6d02c9.jpg" width="40" height="40"></a></kbd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <kbd > <a href="https://www.linkedin.com/in/deilton-rodrigues-b8a433140/" target="_blank"><img src="https://wallpapers.com/images/hd/linkedin-background-ca8mfbsf2jxdlxjx.jpg" width="40" height="40"></a></kbd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-     <kbd > <a href="https://www.salesforce.com/trailblazer/deiltonrodrigues/" target="_blank"><img src="https://www.awsquality.com/wp-content/uploads/2017/07/Trailhead-e1577700066737.jpg" width="40" height="40"></a></kbd>
+     <kbd > <a href="https://www.salesforce.com/trailblazer/deiltonrodrigues/" target="_blank"><img src="https://cdn.thenewstack.io/media/2017/06/6c7e8f56-trailhead.png" width="40" height="40"></a></kbd>
     
      
   
