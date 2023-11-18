@@ -1,4 +1,4 @@
-<kbd border-radius="80%" align="center">
+
 <div align="center"> 
 <h2>Olá, seja bem vindo(a) à minha página do GitHub!</h2></br>
 <kbd border-radius="80%">
@@ -39,14 +39,13 @@
 
 </div></kbd>
 </br>
-
 <div align="center">
 
 <h3>Música que estou ouvindo no Spotify!</h3></br>
 
 <kbd border-radius="80%"> [![Spotify](https://novatorem-hazel-eight.vercel.app/api/spotify)](https://open.spotify.com/user/DeiltonRodrigues)</kbd>
 
-<!-- ![snake gif](https://github.com/DeiltonRodrigues1/DeiltonRodrigues1/blob/output/github-contribution-grid-snake.svg)--></kbd>
+<!-- ![snake gif](https://github.com/DeiltonRodrigues1/DeiltonRodrigues1/blob/output/github-contribution-grid-snake.svg)-->
 
 
 
