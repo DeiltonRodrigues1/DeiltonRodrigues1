@@ -5,7 +5,7 @@
 <kbd>
  
 <p align="center">
- <img src="https://readme-typing-svg.demolab.com/?lines=Eu sou Deilton Rodrigues;Desenvolvedor Salesforce;Músico;Artista Plástico;Bora codar?🤓&font=Fira%20Code&center=true&width=660&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+ <img src="https://readme-typing-svg.demolab.com/?lines=Eu sou Deilton Rodrigues;Desenvolvedor Salesforce;Músico;Artista Plástico;Bora codar?🤓&font=Fira%20Code&center=true&width=660&height=50&duration=4000&pause=1000" alt="">
 </p>
 
 <div align="center">
