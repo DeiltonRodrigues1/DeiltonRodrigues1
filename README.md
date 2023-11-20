@@ -1,7 +1,7 @@
-<div style="display: inline_block"><br>
+<div align="center">
 <kbd align="center">
 <h2>Olá, seja bem vindo(a) à minha página do GitHub!</h2></br>
-
+<div style="display: inline_block"><br>
 <kbd>
  
 <p align="center">
