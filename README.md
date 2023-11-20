@@ -13,13 +13,13 @@
 
 <img height="500" width="600" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" ></br>
 
- <kbd border-radius="80%"><img align="center" alt="DeiltonRodrigues-Js" height="25" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></kbd>&nbsp;&nbsp;&nbsp;
- <kbd border-radius="80%"><img align="center" alt="DeiltonRodrigues-HTML" height="25" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></kbd>&nbsp;&nbsp;&nbsp;
- <kbd border-radius="80%"><img align="center" alt="DeiltonRodrigues-CSS" height="25" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></kbd>&nbsp;&nbsp;&nbsp;
- <kbd border-radius="80%"><img align="center" alt="DeiltonRodrigues-APEX" height="25" width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFeSrulYoNAePi9YSCIrCEIibJqgF0_QCP1w&usqp=CAU"></kbd>&nbsp;&nbsp;&nbsp;
- <kbd border-radius="80%"><img align="center" alt="DeiltonRodrigues-APEX" height="25" width="50" src="https://developer.salesforce.com/resources2/quests/badge2.png"></kbd>&nbsp;&nbsp;&nbsp;
-  <kbd border-radius="80%"><img align="center" alt="DeiltonRodrigues-APEX" height="25" width="50" src="https://demandblue.com/wp-content/uploads/2018/04/lighting.jpg"></kbd>&nbsp;&nbsp;&nbsp;
- <kbd border-radius="80%"><img align="center" alt="DeiltonRodrigues-APEX" height="25" width="50" src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/lex_dev_visualforce/7998e9bbdff36b923bb01ff7a5f918f5_badge.png"></kbd>
+ <kbd border-radius="90%"><img align="center" alt="DeiltonRodrigues-Js" height="25" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></kbd>&nbsp;&nbsp;&nbsp;
+ <kbd border-radius="90%"><img align="center" alt="DeiltonRodrigues-HTML" height="25" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></kbd>&nbsp;&nbsp;&nbsp;
+ <kbd border-radius="90%"><img align="center" alt="DeiltonRodrigues-CSS" height="25" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></kbd>&nbsp;&nbsp;&nbsp;
+ <kbd border-radius="90%"><img align="center" alt="DeiltonRodrigues-APEX" height="25" width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFeSrulYoNAePi9YSCIrCEIibJqgF0_QCP1w&usqp=CAU"></kbd>&nbsp;&nbsp;&nbsp;
+ <kbd border-radius="90%"><img align="center" alt="DeiltonRodrigues-APEX" height="25" width="50" src="https://developer.salesforce.com/resources2/quests/badge2.png"></kbd>&nbsp;&nbsp;&nbsp;
+  <kbd border-radius="90%"><img align="center" alt="DeiltonRodrigues-APEX" height="25" width="50" src="https://demandblue.com/wp-content/uploads/2018/04/lighting.jpg"></kbd>&nbsp;&nbsp;&nbsp;
+ <kbd border-radius="90%"><img align="center" alt="DeiltonRodrigues-APEX" height="25" width="50" src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/lex_dev_visualforce/7998e9bbdff36b923bb01ff7a5f918f5_badge.png"></kbd>
   
  </div>
 
@@ -34,10 +34,7 @@
      <kbd > <a href="mailto:deiltonrodrigues@gmail.com"><img src="https://i.pinimg.com/1200x/bd/4f/e2/bd4fe2b3f6f3c9c20eb371b53d6d02c9.jpg" width="70" height="70"></a></kbd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <kbd > <a href="https://www.linkedin.com/in/deilton-rodrigues-b8a433140/" target="_blank"><img src="https://wallpapers.com/images/hd/linkedin-background-ca8mfbsf2jxdlxjx.jpg" width="70" height="70"></a></kbd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
      <kbd > <a href="https://www.salesforce.com/trailblazer/deiltonrodrigues/" target="_blank"><img src="https://cdn.thenewstack.io/media/2017/06/6c7e8f56-trailhead.png" width="70" height="70"></a></kbd>
-   
-     
   
-
 </kbd>
 </br>
 
