@@ -6,7 +6,7 @@
 <kbd>
  
 <p align="center">
- <img src="https://readme-typing-svg.demolab.com/?lines=Eu sou Deilton Rodrigues;Desenvolvedor Salesforce;Músico;Artista Plástico;Bora codar?🤓&font=Fira%20Code&center=true&width=780&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+ <img src="https://readme-typing-svg.demolab.com/?lines=Eu sou Deilton Rodrigues;Desenvolvedor Salesforce;Músico;Artista Plástico;Bora codar?🤓&font=Fira%20Code&center=true&width=680&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
 <div align="center" border-radius="500%">
@@ -15,13 +15,13 @@
 
 
 
- <kbd border-radius="80%"><img align="center" alt="DeiltonRodrigues-Js" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></kbd>&nbsp;
- <kbd border-radius="80%">  <img align="center" alt="DeiltonRodrigues-HTML" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></kbd>&nbsp;
- <kbd border-radius="80%"><img align="center" alt="DeiltonRodrigues-CSS" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></kbd>&nbsp;
- <kbd border-radius="80%"><img align="center" alt="DeiltonRodrigues-APEX" height="20" width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFeSrulYoNAePi9YSCIrCEIibJqgF0_QCP1w&usqp=CAU"></kbd>
- <kbd border-radius="80%"><img align="center" alt="DeiltonRodrigues-APEX" height="20" width="30" src="https://developer.salesforce.com/resources2/quests/badge2.png"></kbd>
-  <kbd border-radius="80%"><img align="center" alt="DeiltonRodrigues-APEX" height="20" width="30" src="https://demandblue.com/wp-content/uploads/2018/04/lighting.jpg"></kbd>
- <kbd border-radius="80%"><img align="center" alt="DeiltonRodrigues-APEX" height="20" width="30" src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/lex_dev_visualforce/7998e9bbdff36b923bb01ff7a5f918f5_badge.png"></kbd>
+ <kbd border-radius="80%"><img align="center" alt="DeiltonRodrigues-Js" height="25" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></kbd>&nbsp;&nbsp;
+ <kbd border-radius="80%">  <img align="center" alt="DeiltonRodrigues-HTML" height="25" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></kbd>&nbsp;&nbsp;
+ <kbd border-radius="80%"><img align="center" alt="DeiltonRodrigues-CSS" height="25" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></kbd>&nbsp;&nbsp;
+ <kbd border-radius="80%"><img align="center" alt="DeiltonRodrigues-APEX" height="25" width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFeSrulYoNAePi9YSCIrCEIibJqgF0_QCP1w&usqp=CAU"></kbd>&nbsp;&nbsp;
+ <kbd border-radius="80%"><img align="center" alt="DeiltonRodrigues-APEX" height="25" width="50" src="https://developer.salesforce.com/resources2/quests/badge2.png"></kbd>&nbsp;&nbsp;
+  <kbd border-radius="80%"><img align="center" alt="DeiltonRodrigues-APEX" height="25" width="50" src="https://demandblue.com/wp-content/uploads/2018/04/lighting.jpg"></kbd>&nbsp;&nbsp;
+ <kbd border-radius="80%"><img align="center" alt="DeiltonRodrigues-APEX" height="25" width="50" src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/lex_dev_visualforce/7998e9bbdff36b923bb01ff7a5f918f5_badge.png"></kbd>
   
  </div>
 
