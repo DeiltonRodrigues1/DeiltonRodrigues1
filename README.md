@@ -1,4 +1,4 @@
-<div align="center"> 
+<div align="center" border-radius="500%"> 
 <kbd align="center">
 
 <h2>Olá, seja bem vindo(a) à minha página do GitHub!</h2></br>
@@ -9,9 +9,9 @@
  <img src="https://readme-typing-svg.demolab.com/?lines=Eu sou Deilton Rodrigues;Desenvolvedor Salesforce;Músico;Artista Plástico;Bora codar?🤓&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
-<div align="center" border-radius="80%">
+<div align="center" border-radius="500%">
 
-<img height="300" width="400" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif"  >
+<img height="700" width="800" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif"  >
 
 
 
