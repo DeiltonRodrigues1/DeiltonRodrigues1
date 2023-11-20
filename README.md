@@ -1,6 +1,6 @@
 <div align="center">
 <kbd align="center">
-<h2>Olá, seja bem vindo(a) à minha página do GitHub!</h2></br>
+<h1>Olá, seja bem vindo(a) à minha página do GitHub!</h1></br>
 <div style="display: inline_block"><br>
 <kbd>
  
@@ -26,7 +26,7 @@
  
 </br>
 
- <h3>Conecte-se comigo!</h3></br>
+ <h2>Conecte-se comigo!</h2></br>
    
    <kbd><a href="https://www.youtube.com/channel/UC7zg2jrvZoZBMApxnGz7fHQ" target="_blank"><img src="https://i.redd.it/3d-youtube-logo-full-video-on-my-channel-v0-ituve6xk0apa1.png?width=1920&format=png&auto=webp&s=c4b090ae1e20b8d1877e4cdf6fb29fe216ed84ce" width="70" height="70"></a></kbd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
     <kbd><a href="https://www.instagram.com/deiltonrodriguesdrawings/" target="_blank"><img src="https://cdn.pixabay.com/photo/2022/01/26/23/18/instagram-6970242_960_720.jpg" width="70" height="70"></a></kbd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -37,7 +37,7 @@
 </br>
 
 
-<h3>Música que estou ouvindo no Spotify!</h3></br>
+<h2>Música que estou ouvindo no Spotify!</h2></br>
 
 <kbd> [![Spotify](https://novatorem-hazel-eight.vercel.app/api/spotify)](https://open.spotify.com/user/DeiltonRodrigues)</kbd>
 
