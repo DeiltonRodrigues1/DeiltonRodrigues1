@@ -1,5 +1,6 @@
-
 <div align="center"> 
+<kbd align="center">
+
 <h2>Olá, seja bem vindo(a) à minha página do GitHub!</h2></br>
 <kbd border-radius="80%">
 <p align="center">
@@ -22,8 +23,8 @@
   
  
 
-</div> 
- </div>
+
+ 
 </br>
 <div align="center" border-radius="80%">
  <h3>Conecte-se comigo!</h3></br>
@@ -37,9 +38,9 @@
      
   
 
-</div></kbd>
+</kbd>
 </br>
-<div align="center">
+
 
 <h3>Música que estou ouvindo no Spotify!</h3></br>
 
@@ -47,5 +48,5 @@
 
 <!-- ![snake gif](https://github.com/DeiltonRodrigues1/DeiltonRodrigues1/blob/output/github-contribution-grid-snake.svg)-->
 
-
-
+</kbd>
+</div></div>
