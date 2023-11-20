@@ -11,7 +11,7 @@
 
 <div align="center" border-radius="500%">
 
-<img height="700" width="800" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif"  >
+<img height="500" width="600" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif"  >
 
 
 
