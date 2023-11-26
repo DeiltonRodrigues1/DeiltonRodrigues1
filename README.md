@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<img height="500" width="600" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" ></br>
+<img height="400" width="500" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" ></br>
 
  <kbd><img align="center" alt="DeiltonRodrigues-Js" height="25" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></kbd>&nbsp;&nbsp;&nbsp;
  <kbd><img align="center" alt="DeiltonRodrigues-HTML" height="25" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></kbd>&nbsp;&nbsp;&nbsp;
