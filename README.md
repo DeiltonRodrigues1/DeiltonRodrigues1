@@ -42,7 +42,5 @@
 
 <kbd> [![Spotify](https://novatorem-hazel-eight.vercel.app/api/spotify)](https://open.spotify.com/user/DeiltonRodrigues)</kbd>
 
-![snake gif](https://raw.githubusercontent.com)
-
 
 </div> </div>
